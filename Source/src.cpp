@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "src.cpp: Hello, world!" << std::endl;
+    std::cout << "HondaShio mentioned src.cpp: Hello, world!" << std::endl;
     return 0;
 }
